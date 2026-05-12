@@ -1,0 +1,5 @@
+2026_02_06_ga_voting.csv
+__pycache__/
+*.pyc
+.venv/
+.env
